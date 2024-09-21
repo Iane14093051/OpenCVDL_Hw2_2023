@@ -58,7 +58,7 @@ Offers two features:
 - **Opening Operation**: Manually implement the opening operation by applying erosion followed by dilation to remove small objects or noise from the image.
 
 ### 4. VGG19 MNIST Classifier with Batch Normalization
-Deep learning features using the VGG19 model:
+Offers four features for classifying images of cats and dogs:
 - **Show Model Structure**: Display the architecture of VGG19 with Batch Normalization.
 - **Show Training/Validation Accuracy and Loss**: Show a plot of training and validation accuracy/loss.
 - **Inference**: Draw a digit on the canvas and predict its class using the trained model. Also, display the probability distribution of the prediction.
