@@ -18,16 +18,20 @@
    ```bash
    $ pip install -r requirements.txt
    ```
-3. Train the ResNet50:
+3. Train the VGG19:
+   ```bash
+   $ python model_vgg_lee.py
+   ```
+4. Train the ResNet50:
    ```bash
    $ python model_ResNet50_lee.py
    $ python model_ResNet50_no_lee.py
    ```
-4. Generate the compare result of ResNet50:
+5. Generate the compare result of ResNet50:
    ```bash
    $ python model_ResNet50_compare_lee.py
    ```    
-5. Run the application:
+6. Run the application:
    ```bash
    $ python hw2.0.py
    ```
