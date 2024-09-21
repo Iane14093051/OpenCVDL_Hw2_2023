@@ -12,7 +12,7 @@
 
 1. Clone the repository:
    ```bash
-   $ git clone https://github.com/hsylin/OpenCVDL_Hw2.git
+   $ git clone https://github.com/Iane14093051/OpenCVDL_Hw2_2023.git
    ```
 2. Install the required dependencies:
    ```bash
