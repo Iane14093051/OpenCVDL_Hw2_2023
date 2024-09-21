@@ -18,11 +18,11 @@
    ```bash
    $ pip install -r requirements.txt
    ```
-3. Train the VGG19:
+3. Train the VGG19 model:
    ```bash
    $ python model_vgg_lee.py
    ```
-4. Train the ResNet50:
+4. Train the ResNet50 model:
    ```bash
    $ python model_ResNet50_lee.py
    $ python model_ResNet50_no_lee.py
