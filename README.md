@@ -1,7 +1,7 @@
 
 # Course Assignments
 
-[Assignment Requirements Slide](https://github.com/hsylin/OpenCVDL_Hw2/raw/refs/heads/main/OpenCv_Hw2_Q_20231205_V1B3.pptx)
+[Assignment Requirements Slide](https://github.com/Iane14093051/OpenCVDL_Hw2_2023/raw/refs/heads/main/OpenCv_Hw2_Q_20231205_V1B3.pptx)
 
 ## Environment
 
