@@ -70,3 +70,7 @@ Offers four features for classifying images of cats and dogs:
 - **Show ResNet50 Model Structure**: Display the architecture of the ResNet50 model.
 - **Random Erasing**: Compare classification accuracy with and without random erasing as a data augmentation technique.
 - **Inference**: Load an image, classify it using the trained model, and display the predicted class label.
+
+## Demo Video
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-4pe3D75xYI/0.jpg)](https://www.youtube.com/watch?v=-4pe3D75xYI)
